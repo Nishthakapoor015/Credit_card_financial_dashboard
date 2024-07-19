@@ -1,1 +1,2 @@
 # Credit_card_financial_dashboard
+This Credit Card Financial Dashboard is designed to provide a comprehensive view of credit card transactions, balances, and overall financial health. It offers users the ability to monitor spending patterns, track balances, and analyze financial performance over time. The dashboard is built with user-friendly visualization tools to help individuals and financial managers make informed decisions.
